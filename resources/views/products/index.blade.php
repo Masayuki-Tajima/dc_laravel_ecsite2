@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="container h-100">
-        aiueo
+        商品一覧
     </div>
 @endsection
