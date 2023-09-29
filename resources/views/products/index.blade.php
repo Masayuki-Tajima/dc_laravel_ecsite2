@@ -2,6 +2,12 @@
 
 @section('content')
     <div class="container h-100">
-        商品一覧
+        <div class="item">
+            <div><img src="{{ asset('storage/images/dummy.png') }}" alt=""></div>
+            <p>トマト</p>
+            <p>130円</p>
+            <br>
+            <input type="button" value="カートに入れる">
+        </div>
     </div>
 @endsection
